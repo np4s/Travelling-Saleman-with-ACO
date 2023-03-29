@@ -7,10 +7,10 @@ Our code is mainly a report on how the variation of hyper-parameter impact the p
 ## Change-log
 
 -2022/3/29 : Initial release, with no implementation, 4 files created
-    ** README.md
-    * requirements.txt
-    * TSP-ACO.py
-    * TSP-ACO.ipynb
+    - README.md
+    - requirements.txt
+    - TSP-ACO.py
+    - TSP-ACO.ipynb
 
 
 ## Todo-list
