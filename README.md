@@ -38,7 +38,7 @@ pip install -r requirements.txt
 To run the program, simply execute the following command:
 
 ```bash
-pip TSP-ACO.py
+python3 TSP-ACO.py
 ```
 
 There is an iteractive version for this repository, where you can configure the code and hyper-parameter [TSP-ACO](TSP_nb.ipynb)
