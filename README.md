@@ -7,7 +7,7 @@ Our code is mainly a report on how the variation of hyper-parameter impact the p
 ## Change-log
 
 -2022/3/29 : Initial release, with no implementation, 4 files created
-    * README.md
+    ** README.md
     * requirements.txt
     * TSP-ACO.py
     * TSP-ACO.ipynb
@@ -44,17 +44,5 @@ pip TSP-ACO.py
 There is an iteractive version for this repository, where you can configure the code and hyper-parameter [TSP-ACO](TSP_nb.ipynb)
 
 
-##Citation
+## Citation
 [Ant Colony Optimization for the Traveling Salesman Problem](https://www.researchgate.net/publication/220568269_Ant_Colony_Optimization_for_the_Traveling_Salesman_Problem)
-
-
-## Change-log
-
--2022/3/29 : Initial release, with no implementation, 4 files created
-    * README.md
-    * requirements.txt
-    * TSP-ACO.py
-    * TSP-ACO.ipynb
-
-
-## Todo-list
